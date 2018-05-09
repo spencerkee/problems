@@ -1,0 +1,45 @@
+How the Father of Computer Science Decoded Nature’s Mysterious Patterns
+
+In research shortly before his death in 1954, Alan Turing used mathematics to explore how forms emerge, yielding insights that are now being applied to problems like desalination.
+
+Many have heard of Alan Turing, the mathematician and logician who invented modern computing in 1935. They know Turing, the cryptologist who cracked the Nazi Enigma code, helped win World War II. And they remember Turing as a martyr for gay rights who, after being prosecuted and sentenced to chemical castration, committed suicide by eating an apple laced with cyanide in 1954.
+
+But few have heard of Turing, the naturalist who explained patterns in nature with math. Nearly half a century after publishing his final paper in 1952, chemists and biological mathematicians came to appreciate the power of his late work to explain problems they were solving, like how zebrafish get their stripes or cheetahs get spots. And even now, scientists are finding new insights from Turing’s legacy.
+
+Most recently, in a paper published Thursday in Science, chemical engineers in China used pattern generation described by Turing to explain a more efficient process for water desalination, which is increasingly being used to provide freshwater for drinking and irrigation in arid places.
+
+Turing’s 1952 paper did not explicitly address the filtering of saltwater through membranes to produce freshwater. Instead, he used chemistry to explain how undifferentiated balls of cells generated form in organisms.
+
+It’s unclear why this interested the early computer scientist, but Turing had told a friend that he wanted to defeat Argument From Design, the idea that for complex patterns to exist in nature, something supernatural, like God, had to create them. 
+
+A keen natural observer since childhood, Turing noticed that many plants contained clues that math might be involved. Some plant traits emerged as Fibonacci numbers. These were part of a series: Each number equals the sum of the two preceding numbers. Daisies, for example, had 34, 55 or 89 petals. 
+
+“He certainly was no militant atheist,” said Jonathan Swinton, a computational biologist and visiting professor at the University of Oxford who has researched Turing’s later work and life. “He just thought mathematics was very powerful, and you could use it to explain lots and lots of things — and you should try.”
+
+And try, Turing did.
+
+“He came up with a mathematical representation that allows form to emerge from blankness,” said Dr. Swinton.
+
+In Turing’s model, two chemicals he called morphogens interacted on a blank arena. “Suppose you’ve got two of these, and one will make the skin of an animal go black and the skin of the animal go white,” explained Dr. Swinton. “If you just mix these things in an arena, what you get is a gray animal.”
+EDITORS’ PICKS
+In Puerto Rico, Waiting for Power, for Tourists, for the Flowers
+How Trump’s Lawyer Built a Business Empire in the Shadows
+The Pleasure and Pain of Being the World’s 5th-Largest Economy
+
+But if something caused one chemical to diffuse, or spread, faster than the other, then each chemical could concentrate in evenly spaced localized spots, together forming black and white spots or stripes.
+
+This is known as a “Turing instability,” and, the Chinese researchers who published the new paper determined that it could explain the way shapes emerged in salt-filtering membranes.
+
+By creating three-dimensional Turing patterns like bubbles and tubes in membranes, the researchers increased their permeability, creating filters that could better separate salt from water than traditional ones.
+
+“We can use one membrane to finish the work of two or three,” said Zhe Tan, a graduate student at Zheijang University in China and first author of the paper, which means less energy and lower cost if used for large-scale desalination operations in the future. 
+
+Beyond his final publication, Turing’s notes revealed the complicated ideas he was wrestling to explain.
+
+“The 1952 paper that everybody knows is not the end of the story,” said Jonathan Dawes, a mathematician at the University of Bath who has also been trying to make sense of Turing’s later work. “It doesn’t show the full depth of his thinking.”
+
+Turing appeared to be looking for a general mechanism for the creation of form — like how thought or consciousness spontaneously emerges or how sunflowers neatly pack their seeds together. But Turing would die before completing and publishing his final musings.
+
+“What I hope we appreciate more because of him, is to value diversity and individual creativity in our science base,” Dr. Dawes said. “We need people who we allow to be driven by their curiosity, and we also need people who will take those basic science ideas and turn them into useful technology.” 
+
+https://www.nytimes.com/2018/05/08/science/alan-turing-desalination.html
